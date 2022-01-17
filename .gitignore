@@ -1,0 +1,5 @@
+siamese_model.h5
+./data
+./application_images
+./app/application_images
+./app/siamese_model.h5
