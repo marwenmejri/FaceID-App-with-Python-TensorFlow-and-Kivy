@@ -17,6 +17,8 @@
 8- Creation of the Kivy application and integration with Tensorflow.
 
 
-Links
+**Links** : 
+
 Article : https://www.cs.cmu.edu/~rsalakhu/pape...
+
 Labeled Faces in the Wild: http://vis-www.cs.umass.edu/lfw/
