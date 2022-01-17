@@ -1,6 +1,6 @@
 siamese_model.h5
-.ipynb_checkpoints/
-data/
-application_images/
-app/application_images/
+/.ipynb_checkpoints/
+/data/
+/application_images/
+/app/application_images/
 app/siamese_model.h5
